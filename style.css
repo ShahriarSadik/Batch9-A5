@@ -4,3 +4,23 @@
 .margin-top{
     margin-top: 40px;
 }
+
+
+.seats{
+    height:50px;
+    width: 90px;
+    border-radius: 12px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #ebefef;
+  }
+
+
+  .cat_name{
+    height:60px;
+    width: 60px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  }
