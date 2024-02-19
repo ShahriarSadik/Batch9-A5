@@ -1,8 +1,6 @@
-*{
-    font-family:'raleway';
-  }
-  .margin{
+* {
+  font-family: "raleway";
+}
+.margin-top{
     margin-top: 40px;
-  }
-
-  
+}
